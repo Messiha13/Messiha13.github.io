@@ -828,21 +828,11 @@ img {
 #links > div > div:first-child {
 	border: 0;
 	padding-left: 20px;
+	
+footer {
+	background: #aaa;color:white;
+	
 }
-#footer div#links li {
-	margin: 0 0 18px;
-}
-#footer div#links div.archives li {
-	float: left;
-	width: 136px;
-}
-#footer div#links a {
-	color: #8c8c8c;
-	font-family: "Muli-Light";
-	font-size: 13px;
-}
-#footer div#links a:hover {
-	color: #fff;
 }
 #searchbar {
 	display: inline-block;
